@@ -4,5 +4,5 @@ Compendium for the paper by Karhila, Smolander, Ylinen &amp; Kurimo submitted to
 
 Contents:
 - Description of audio data sets and dictionaries
-- [Description of set](https://github.com/aalto-speech/interspeech2019_karhila_et_al/blob/master/phoneset.html) ( [html preview](https://htmlpreview.github.io/?https://github.com/aalto-speech/interspeech2019_karhila_et_al/blob/master/phoneset.html) )
-- Jupyter notebook for running the scoring experiment
+- [phoneset.html](https://github.com/aalto-speech/interspeech2019_karhila_et_al/blob/master/phoneset.html) Description of the used phoneme set ( [html preview](https://htmlpreview.github.io/?https://github.com/aalto-speech/interspeech2019_karhila_et_al/blob/master/phoneset.html) )
+- [scoring_experiment.ipynb](https://github.com/aalto-speech/interspeech2019_karhila_et_al/blob/master/scoring_experiment.ipynb) Jupyter notebook for running the scoring experiment
